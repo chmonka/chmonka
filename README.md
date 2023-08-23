@@ -50,6 +50,7 @@
 | stepik.org (Веб-разработка для начинающих: HTML и CSS)              | 19/10/2022|
 | stepik.org/Junior QA (Инженер по тестированию ПО: начальный уровень)| 06/11/2023|
 | https://stepik.org/course/4138/syllabus (GIT)                       |
+| https://stepik.org/course/2223/syllabus (JavaScript для начинающих) |
 
 ### ⚙️ GitHub статистика:
 <div>
