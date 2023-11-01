@@ -34,7 +34,7 @@
  </p>
 </div>
 
-### 🛠️ Инустременты: 
+### 🛠️ Инструменты: 
 
 <div>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="Photos/figma.png" alt="figma" width="40" height="40"/> </a> 
