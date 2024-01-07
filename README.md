@@ -29,7 +29,6 @@
   <a href="https://learn.javascript.ru/" target="_blank" rel="noreferrer"> <img src="Photos/js.png" alt="react" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="Photos/react.png" alt="react" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="Photos/git.png" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="Photos/python.png" alt="python" width="40" height="40"/> </a> 
  </p>
 </div>
 
